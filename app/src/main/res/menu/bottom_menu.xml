@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/menu_home"
+        android:icon="@drawable/outline_home_24" />
+
+    <item
+        android:id="@+id/explore"
+        android:title="@string/menu_explore"
+        android:icon="@drawable/outline_explore_24" />
+
+    <item
+        android:title=""/>
+
+    <item
+        android:id="@+id/library"
+        android:title="@string/menu_library"
+        android:icon="@drawable/outline_library_music_24" />
+    <item
+        android:id="@+id/upgrade"
+        android:title="@string/menu_upgrade"
+        android:icon="@drawable/outline_album_24" />
+
+</menu>
